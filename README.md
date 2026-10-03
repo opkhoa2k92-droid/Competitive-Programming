@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 9 |
+| 9 | 10 |
 
 ---
 
@@ -16,9 +16,10 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (1)
-- [math](#math) (3)
+- [math](#math) (4)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
 
@@ -58,6 +59,7 @@
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
 
 ### implementation
 
@@ -72,6 +74,13 @@
 | 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
 
 ### sortings
 
