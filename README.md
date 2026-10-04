@@ -6,22 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 10 |
+| 10 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
+- [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (1)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (2)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -37,12 +39,19 @@
 |---|---------|------------|----------|
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### data structures
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### games
 
@@ -60,6 +69,7 @@
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267C | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/C%20-%20GCD%20Treasury/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### implementation
 
@@ -88,6 +98,7 @@
 |---|---------|------------|----------|
 | 2266D | [Falling Concrete](https://codeforces.com/contest/2266/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/D%20-%20Falling%20Concrete/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ### strings
 
@@ -95,6 +106,12 @@
 |---|---------|------------|----------|
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
 
 ---
 
