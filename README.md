@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 12 |
+| 11 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
@@ -26,6 +27,12 @@
 - [two pointers](#two-pointers) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2278A | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/opkhoa2k92-droid/Competitive-Programming/blob/HEAD/2278/A%20-%20Fraction%20and%20Six/solution.cpp) |
 
 ### brute force
 
